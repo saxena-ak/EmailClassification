@@ -16,7 +16,7 @@ Each file looks like emails and contains a lot of information such as <b>Email H
 1. Non Spam (Ham) - 3901 
 2. Spam - 1898
 
-# To use the code:
+# How to use the code:
 
 1. Create 'SpamData/01_Processing/spam_assassin_corpus/' directories. 
 2. Download the latest dataset from https://spamassassin.apache.org/old/publiccorpus/ and store in the 'spam_assassin_corpus' folder.
